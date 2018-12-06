@@ -1,7 +1,7 @@
 ---
 aliases: http2, https
 created_by: Tim Berners-Lee
-display_name: HTTP
+display_name: paradiesgetraenke
 released: '1989'
 short_description: HTTP (Hypertext Transfer Protocol) is the standard for communication
   across the web.
